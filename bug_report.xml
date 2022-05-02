@@ -1,5 +1,7 @@
+<bugReport>
 <ID>BR_1</ID>
 <BugSummary>Не работает кнопка отправки заказа.</BugSummary>
 <StepsToReproduce>1. Открыть сайт, 2. Нажать по ссылке, 3. Пролистать до поля, 4. Ввести значение в поле, 5. Попытаться нажать кнопку отправки заказа.</StepsToReproduce>
 <ActualResult>кнопка неактивна</ActualResult>
 <ExpectedResult>кнопка нажимается, можно сделать заказ</ExpectedResult>
+</bugReport>
